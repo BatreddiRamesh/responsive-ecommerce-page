@@ -2,4 +2,4 @@
 
 
 
-[Live View](https://github.com/BatreddiRamesh/responsive-ecommerce-page/)
+[Live View](https://BatreddiRamesh.github.io/responsive-ecommerce-page/)
